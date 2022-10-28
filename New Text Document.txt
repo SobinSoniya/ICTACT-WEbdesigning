@@ -1,0 +1,18 @@
+<html>
+<head>
+
+</head>
+<body>
+<form name="registration">
+<table>
+<tr>
+<td colspan="2"><b>Student Registration</b></td>
+<tr>
+<tr>
+<td>Name</td>
+<td><input type="text" name="stud_name" id="stud_name"/></td>
+</tr>
+</table>
+</form>
+</body>
+</html>
